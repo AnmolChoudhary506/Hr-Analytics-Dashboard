@@ -176,4 +176,4 @@
 This HR Analytics Dashboard transforms raw HR data into meaningful insights, enabling organizations to proactively manage attrition, improve employee retention, and make informed workforce decisions using data.
 
 12. Screenshot
-    
+    Example: [Dashboard Preview] (https://github.com/AnmolChoudhary506/Hr-Analytics-Dashboard/blob/main/HR%20ANALYTICS%20DASHBOARD.png)
