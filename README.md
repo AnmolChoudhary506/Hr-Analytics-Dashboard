@@ -177,4 +177,4 @@
 
 12. Screenshot
     
-    Example: [Dashboard Preview] (https://github.com/AnmolChoudhary506/Hr-Analytics-Dashboard/blob/main/HR%20ANALYTICS%20DASHBOARD.png)
+    Example: https://github.com/AnmolChoudhary506/Hr-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard%20Images/Attrition%20of%20Sales%20Department.png
